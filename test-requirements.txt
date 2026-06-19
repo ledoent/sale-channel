@@ -1,0 +1,1 @@
+odoo-addon-sale_channel @ git+https://github.com/ledoent/sale-channel.git@19.0-mig-sale_channel#subdirectory=sale_channel
